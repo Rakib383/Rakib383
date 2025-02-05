@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="350" src="https://res.cloudinary.com/do8woqwpf/image/upload/v1738734478/banner_spbof9.png"  />
+  <img height="350" src="https://res.cloudinary.com/do8woqwpf/image/upload/v1738744986/banner2_gzh6va.png"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋 I am Rakib Hossen</h1>
+<h1 align="center">hey there 👋 I am Rakib Hossen Sarkar</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakib383&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakib383&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="204" alt="stats graph"  />
 </div>
 
 ###
@@ -22,7 +22,9 @@
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=Rakib383&theme=vue-dark" alt="GitHub Streak" />
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rakib383&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false&order=2" height="195" alt="languages graph"  />
 </div>
+
 
 ###
 
@@ -66,9 +68,9 @@
   <a href="https://www.linkedin.com/in/rakibsarkar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/rakibhossen.sarkar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+  <a href="https://x.com/rakib_hossen1" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</a>
 </div>
 
 ###
